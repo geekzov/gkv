@@ -151,7 +151,7 @@ const App = () => {
                 <a href="https://github.com/geekzov" target="_blank" rel="noopener noreferrer" className="text-neon-pink hover:text-neon-green transition-colors duration-300">
                   <Github size={24} className="md:w-8 md:h-8" />
                 </a>
-                <a href="https://linkedin.com/in/sajadgeekzov" target="_blank" rel="noopener noreferrer" className="text-neon-pink hover:text-neon-green transition-colors duration-300">
+                <a href="https://www.linkedin.com/in/abdulla-sajad-b7914124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="text-neon-pink hover:text-neon-green transition-colors duration-300">
                   <Linkedin size={24} className="md:w-8 md:h-8" />
                 </a>
                 <a href="https://twitter.com/geekzov" target="_blank" rel="noopener noreferrer" className="text-neon-pink hover:text-neon-green transition-colors duration-300">
@@ -164,6 +164,7 @@ const App = () => {
 
         <footer className="mt-12 text-center text-cyber-gray text-sm md:text-base">
           <p>&copy; {new Date().getFullYear()} Geekzov. All rights reserved🔒.</p>
+          <p>[Under Maintanence🧙‍♂️]</p>
         </footer>
       </div>
     </div>
